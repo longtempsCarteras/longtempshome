@@ -1,0 +1,34 @@
+body{
+  font-family: 'Girassol';
+  text-align: center;
+  background-color: #343a40;
+}
+
+h1, h2, h3, h4, h5, h6{
+  font-family: 'Noto Serif';
+  font-weight: bold;
+}
+
+
+.logo {
+  width: 350px;
+}
+
+.navbar {
+  background-color: black;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+.nav-item {
+  color: #fff;
+  font-size: 2rem;
+}
+
+.container {
+  margin: 5%;
+}
+
+.foto-derecha {
+  width: 60%;
+}
